@@ -7,6 +7,11 @@ sequence published by WHO.
 
 ## Usage
 
+Make sure to install the dependencies:
+- ruby
+- tr
+
+Then:
 1. Clone this repo
 2. Run `make`
 3. You will get `rna.png` containing your image
